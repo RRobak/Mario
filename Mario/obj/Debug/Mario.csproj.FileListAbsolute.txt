@@ -1,0 +1,216 @@
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\leveldata.xml
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\01-main-theme-overworld.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\blank.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\block1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\brick1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\bush-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\bush-mid1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\bush-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\castle1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-bottom-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-bottom-mid1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-bottom-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-mid1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\cloud-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\coin.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\coinbounce.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\coinbox1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\emptycoinbox1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\flag.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\goomba1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\grass1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\hill-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\hill-mid1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\hill-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\hill-top1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\koopatroopa1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\pipe-bottom-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\pipe-bottom-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\pipe-top-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\pipe-top-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\pole1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\poletop.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\rock1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sky1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-left-run1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-left1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-right-jump1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-right-run1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-right1.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-sprites.png
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_bump.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_coin.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_flagpole.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_gameover.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_jump-small.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_mariodie.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_pause.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_stomp.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_warning.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\smb_world_clear.wav
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\resources\arial.ttf
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\Mario.exe.config
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\Mario.exe
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\Mario.pdb
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.exe
+D:\studies\Projects\c#\mario\sourceCode\Mario\Mario\obj\Debug\Mario.pdb
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\leveldata.xml
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\resources\rock1.png
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\resources\sky1.png
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\resources\sm-mario-sprites.png
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\Mario.exe.config
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\Mario.exe
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\Mario.pdb
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.exe
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\Mario\obj\Debug\Mario.pdb
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\leveldata.xml
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\resources\rock1.png
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\resources\sky1.png
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\resources\sm-mario-sprites.png
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\Mario.exe.config
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\Mario.pdb
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\bin\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\Mario-master\Mario\obj\Debug\Mario.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\leveldata.xml
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\Mario.exe.config
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\Mario.exe
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\Mario.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\GameEngine.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\sfmlnet-system-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\sfmlnet-window-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\GameEngine.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.Properties.Resources.resources
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.csproj.CopyComplete
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.exe
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\obj\Debug\Mario.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\resources\ground.png
+C:\Users\kacpe\Desktop\Nowy folder (2)\Mario\bin\Debug\resources\mario.png
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\leveldata.xml
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\resources\ground.png
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\resources\mario.png
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\Mario.exe.config
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\Mario.exe
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\Mario.pdb
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.exe
+D:\studies\Projects\c#\Mario\Mario\obj\Debug\Mario.pdb
+D:\studies\Projects\c#\Mario\Mario\bin\Debug\resources\arial.ttf
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\piperightup.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\leveldata.xml
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\brick.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\cloud.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\coin.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\coinbounce.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\coinboxx.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\emptycoinbox.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\grass.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\ground.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\left_mountain.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\mario.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\pipeleft.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\pipeleftup.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\piperight.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\right_mountain.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\arial.ttf
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\Mario.exe.config
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\Mario.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\block.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\goomba.png
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\Mario\bin\Debug\resources\koopatroopa.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\piperightup.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\leveldata.xml
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\block.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\brick.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\cloud.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\coin.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\coinbounce.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\coinboxx.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\emptycoinbox.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\goomba.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\grass.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\ground.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\koopatroopa.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\left_mountain.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\mario.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\pipeleft.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\pipeleftup.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\piperight.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\right_mountain.png
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\resources\arial.ttf
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\Mario.exe.config
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\Mario.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\sfmlnet-audio-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\sfmlnet-graphics-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\sfmlnet-system-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\sfmlnet-window-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\bin\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.cache
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.exe
+D:\.STUDIA\Semestr 5\GK\LABO\LastBreathOfMario\Mario\Mario\obj\Debug\Mario.pdb

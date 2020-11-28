@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioGame", "Mario\MarioGame.csproj", "{DF0D67E7-8870-4F92-ACCE-6ABA68A32E8D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF} = {F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine.csproj", "{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AD5BA19-9F9A-44FE-82E9-AEA2B7F2F341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SFML", "SFML", "{6CA37F13-F793-4160-B7BA-65D9D48093D0}"
+	ProjectSection(SolutionItems) = preProject
+		SFML\csfml-audio-2.dll = SFML\csfml-audio-2.dll
+		SFML\csfml-graphics-2.dll = SFML\csfml-graphics-2.dll
+		SFML\csfml-network-2.dll = SFML\csfml-network-2.dll
+		SFML\csfml-system-2.dll = SFML\csfml-system-2.dll
+		SFML\csfml-window-2.dll = SFML\csfml-window-2.dll
+		SFML\libsndfile-1.dll = SFML\libsndfile-1.dll
+		SFML\openal32.dll = SFML\openal32.dll
+		SFML\sfmlnet-audio-2.dll = SFML\sfmlnet-audio-2.dll
+		SFML\sfmlnet-graphics-2.dll = SFML\sfmlnet-graphics-2.dll
+		SFML\sfmlnet-system-2.dll = SFML\sfmlnet-system-2.dll
+		SFML\sfmlnet-window-2.dll = SFML\sfmlnet-window-2.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0D67E7-8870-4F92-ACCE-6ABA68A32E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0D67E7-8870-4F92-ACCE-6ABA68A32E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0D67E7-8870-4F92-ACCE-6ABA68A32E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0D67E7-8870-4F92-ACCE-6ABA68A32E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41C5200-B94D-4621-A4EE-0FCDD5FFDFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAF6227-3834-4AC7-8B49-7D6237395EFA}
+	EndGlobalSection
+EndGlobal

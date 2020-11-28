@@ -1,0 +1,64 @@
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.dll
+D:\studies\Projects\c#\mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.pdb
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.dll
+D:\studies\Projects\c#\mariotmp\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\obj\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\Mario-master\GameEngine\obj\Debug\GameEngine.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\sfmlnet-system-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\bin\Debug\sfmlnet-window-2.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\kacpe\Desktop\Nowy folder (2)\GameEngine\obj\Debug\GameEngine.pdb
+D:\studies\Projects\c#\Mario\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\studies\Projects\c#\Mario\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+D:\studies\Projects\c#\Mario\GameEngine\obj\Debug\GameEngine.dll
+D:\studies\Projects\c#\Mario\GameEngine\obj\Debug\GameEngine.pdb
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\GameEngine.dll
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\GameEngine.pdb
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\studies\Projects\c#\Mario\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\studies\Projects\c#\Mario\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\GameEngine.pdb
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\obj\Debug\GameEngine.dll
+D:\.STUDIA\Semestr 5\GK\LABO\Mario-master\GameEngine\obj\Debug\GameEngine.pdb
